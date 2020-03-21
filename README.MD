@@ -1,5 +1,4 @@
-# 🙆 GirlsScript Chennai Website
-
+# 🙆 Community Website Boilerplate
 ![Issues](https://img.shields.io/github/issues/smaranjitghose/girlscript_chennai_website)
 ![Pull Requests](https://img.shields.io/github/issues-pr/smaranjitghose/girlscript_chennai_website?)
 ![Forks](https://img.shields.io/github/forks/smaranjitghose/girlscript_chennai_website)
@@ -32,10 +31,6 @@ https://github.com/girlscriptchennai
 
 ![image 2](snapshots/Capture.JPG)
 
-## 📚 Tech Stack Used
-1. HTML
-2. CSS
-3. JavaScript
 
 ## 👇 Prerequisites to contribute
 
@@ -49,7 +44,7 @@ https://github.com/girlscriptchennai
 
 ## 🏆 How to contribute
 
-![GSSOC'20](https://img.shields.io/badge/GSSOC-20-orange?style=for-the-badge)
+![RGSOC'20](https://img.shields.io/badge/RGSOC-20-pink?style=for-the-badge)
 
 
 **1.** Fork [this](https://github.com/smaranjitghose//girlscript_chennai_website) repository.
