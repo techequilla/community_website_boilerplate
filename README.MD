@@ -12,21 +12,21 @@ This is a website built for Techequilla that can be used as a boilerplate by any
 ## 🙇 Description
 Being an open source project under Rails Girls Summer of Code'2020, this website is not only built for the community but also by the community as well. This is a good starting point for anyone new to web development to work on an actual use case while seasoned developers to showcase their neat tricks.
 
-### 👀 Sections of the website:
+### 👀  Recommended Sections of the website:
 
 - Home 
-- Annoucements 
-- Achievements
+- Announcements 
+- Milestones
 - Projects
 - Team 
 - Contact Us
 
-Also for participants looking to contribute beyond just the website...we shall have a separate projects folder..for making certain small scripts to assist the admins of the website..Once approved here and verified..you can directly contribute the same.
-https://github.com/girlscriptchennai
+Participants are welcomed to contribute beyond just the website, i.e. to have small web apps or scripts for the projects section which once accepted shall be potrayed officially and also added on the [github org](github.com/techequilla)
+
 
 ### 👇 Checkout the current version: 
 
-[Community Website Boilerplate](https://girlscriptchennai.netlify.com/)
+[Community Website Boilerplate](https://techequilla.netlify.com/)
 
 ## 📷 Snapshots
 ![image 1](snapshots/Capture1.JPG)
@@ -38,6 +38,9 @@ https://github.com/girlscriptchennai
 
 - Basics of HTML,CSS,Javascript
 - Ability to use Git and GitHub
+- Knowledge of REACT and GATSBY is a big plus
+- Django/NODEJS for Backend
+- UI/UX
 
 
 
@@ -50,12 +53,12 @@ https://github.com/girlscriptchennai
 
 **2.** Clone the forked repository.
 ```terminal
-git clone https://github.com/<your-github-username>//girlscript_chennai_website
+git clone https://github.com/<your-github-username>//community_website_boilerplate
 ```
 
 **3.** Navigate to the project directory.
 ```terminal
-cd /girlscript_chennai_website
+cd /community_website_boilerplate
 ```
 
 **4.** Create a new branch.
@@ -79,7 +82,7 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [GirlScript Chennai Website](https://github.com/smaranjitghose//girlscript_chennai_website) project. Wait for your PR to be reviewed by the mentors.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Community Website Boilerplate](https://github.com/techequilla/community_website_boilerplate/) project. Wait for your PR to be reviewed by the mentors.
 
 
 ## 📝 Resources to get started with:
@@ -87,17 +90,6 @@ git push -u origin <your_branch_name>
 - [freecodecamp Curriculum + Blogs](https://www.freecodecamp.org/)
 - [w3Schools](https://www.w3schools.com/)
 
-## 🔥 Code of Conduct
-In order to promote an open and welcoming atmosphere, we as contributors and maintainers commit ourselves to make involvement in our project and in our group a harassment-free experience for all irrespective of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
-### Our Standards
-* There should be clear communication.
-* Listen to everyone's ideas.
-* Learn all the aspects before coming to conclusion.
-* Using inoffensive language
-* Attaining positive work environment should be one of everybody's goals
-### Our Responsibilities
-Authorities are responsible for creating an environment where everyone is treated equally and strict actions should be taken in case of unacceptable behaviour.
-Authorities have the duty and responsibility to delete, modify, or reject comments, code, wiki updates, problems, and other contributions that are not consistent with this Code of Conduct, or temporarily or permanently ban any user for other actions that they find unacceptable, disruptive, offensive, or harmful.
 
 ## 👨 Project Admin
 
