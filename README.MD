@@ -5,17 +5,19 @@
 ![Stars](	https://img.shields.io/github/stars/smaranjitghose/girlscript_chennai_website)
 ![License](https://img.shields.io/github/license/smaranjitghose/girlscript_chennai_website)
 
-[![Gitter](https://badges.gitter.im/girlscript_chennai_website/community.svg)](https://gitter.im/girlscript_chennai_website/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/girlscript_chennai_website/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is the website meant to serve the Chennai chapter of GirlScript Chennai. 
+This is a website built for Techequilla that can be used as a boilerplate by any other community
 
 ## 🙇 Description
-Being an open source project under GirlScript Summer of Code'2020, this website is not only built for the community but also by the community as well. This is a good starting point for anyone new to web development to work on an actual use case.
+Being an open source project under Rails Girls Summer of Code'2020, this website is not only built for the community but also by the community as well. This is a good starting point for anyone new to web development to work on an actual use case while seasoned developers to showcase their neat tricks.
+
 ### 👀 Sections of the website:
 
 - Home 
 - Annoucements 
-- Achievements 
+- Achievements
+- Projects
 - Team 
 - Contact Us
 
@@ -34,12 +36,9 @@ https://github.com/girlscriptchennai
 
 ## 👇 Prerequisites to contribute
 
-- Basic knowledge of HTML, CSS and JavaScript for frontend.
-- The ability to use Git and GitHub.
-- Knowing React and Gatsby is big plus.
-- UI/UX Design skills are appreciated but not mandatory.
-- Some idea about Firebase or willingness to learn it.
-- NodeJS should be installed (check for it's installation on terminal using npm -v)
+- Basics of HTML,CSS,Javascript
+- Ability to use Git and GitHub
+
 
 
 ## 🏆 How to contribute
