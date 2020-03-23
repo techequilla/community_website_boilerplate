@@ -1,11 +1,11 @@
 # 🙆 Techequilla 
 
 ### A Community Website Boilerplate 
-![Issues](https://img.shields.io/github/issues/smaranjitghose/girlscript_chennai_website)
-![Pull Requests](https://img.shields.io/github/issues-pr/smaranjitghose/girlscript_chennai_website?)
-![Forks](https://img.shields.io/github/forks/smaranjitghose/girlscript_chennai_website)
-![Stars](	https://img.shields.io/github/stars/smaranjitghose/girlscript_chennai_website)
-![License](https://img.shields.io/github/license/smaranjitghose/girlscript_chennai_website)
+![Issues](https://img.shields.io/github/issues/techequilla/community_website_boilerplate)
+![Pull Requests](https://img.shields.io/github/issues-pr/techequilla/community_website_boilerplate?)
+![Forks](https://img.shields.io/github/forks/techequilla/community_website_boilerplate)
+![Stars](	https://img.shields.io/github/stars/techequilla/community_website_boilerplate)
+![License](https://img.shields.io/github/license/techequilla/community_website_boilerplate)
 
 [![Gitter](https://badges.gitter.im/girlscript_chennai_website/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
