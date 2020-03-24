@@ -1,0 +1,169 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body{
+  font-family: Lato;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: black;
+}
+
+.nav-item{
+  padding-left: 20px;
+  font-size: 150%;
+}
+
+.navbar {
+    min-height: 80px;
+    margin: 50px;
+    margin-top: 0;
+    padding-top: 30px;
+    background-color: white;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #33adff;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+#homeContent{
+  text-align: center;
+  padding-top: 25%;
+}
+
+#homeContent p{
+  font-style: italic;
+  font-weight: bold;
+  color: #ff66c4;
+  font-size: 250%;
+}
+
+#buttons{
+  padding-top: 150px;
+  padding-bottom: 20px;
+}
+
+.button1 {
+  color: #00ace6;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 32px;
+}
+
+.button2 {
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 32px;
+  background-color:#00ace6;
+}
+
+.button1:hover {
+  background-color: #00ace6;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.button2:hover {
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.bg {
+  background-image:url("https://lh3.googleusercontent.com/v59T6KQ3t8W3jqVAchtkDodczni09xzI7tRzFf1aP-jLZo34eHdVCbjygCkTWZQXprYaIGSoScTgp578O4YkVqQieVnKG3fAYc7_FRaS4fZoPSK70M55U1qkPUYIWhJWjoJ7KcMBKjXNyYPRzBpf5H8l9BWP8FuThu62ZVhDS65UfEN7YFMA042mG59Do7Wgon2IckEt6wUhzZpj91RZ362ggnEXpn_8s_elIju-_wpTbBV7EDk4IW-HoIJ1apRzEAignEBQDlfbk7xGvF0XiUG1bOiKte3VMykVbx0D7Dcb7KAWNItyE31ORv9pXH8cDGQxoejuu-k4jgOKLvo1UBkvFxF98PUdWBY87-NCN7t3pnXuV6HQ2jW-B4z0alfSbyVfc2NccA9LLRRzhui6EhwmGAJBm1DulMAftVSSRB7rkKxe4u03YVZkXJCQSAMyCB42zKisgKvfEtQK5q1pWbuC4jKsg-A2iObuc9sAIjKALCcEgLVc4jY9CsyYMJznD-xXDIxm_7ZNtgUywkAHLB7-MqFQYQQgUmokBbRu2hKvisrRyMY5676Rx4nuUkyKlTxEJr0jhoV9cb2T3TNuVew5WbadYJXV0l6Nc3zzb_gbP4lt0MwSgkNeikRnfWXPtZhhw-reNNOa6kPCyL5fsWaP7XEB-n0HcQIOYxnWOs1WOcDb5Lvh-F2mC7Lv3Ks=w1339-h647-no");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.top-sec {
+  margin-top: -100px;
+  margin-bottom: 15px;
+}
+
+.card-title{
+  color: #00ace6;
+  font-size: 250%;
+  padding: 40px;
+}
+
+.card-text{
+  font-size: 200%;
+  padding-bottom: 40px;
+}
+
+.button3 {
+  background-color: #00cca3;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.Achievements h1{
+  font-size: 64px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.Achievements p{
+  font-size: 36px;
+  text-align: center;
+}
+
+.achivePic{
+  font-size: 36px;
+  text-align: center;
+  padding: 80px;
+}
+
+.achievements{
+  padding: 20px;
+}
+
+.buttonA {
+  color: #00ace6;
+  background-color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 32px;
+}
+
+.buttonA:hover {
+  background-color: white;
+  color: #00ace6;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.announce{
+  font-size: 45px;
+  font-weight: 500;
+  text-align: center;
+  padding: 180px;
+  background-color: #00ace6;
+  color: white;
+}
+
+.page-footer{
+  background-color: #ff4d94;
+  text-align: center;
+  padding-top: 25px;
+  color: white;
+}
