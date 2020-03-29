@@ -48,7 +48,7 @@ body{
 
 #homeContent {
     text-align: center;
-    padding-top: 10rem;
+    padding-top: 8rem;
     font-family: 'Antic Slab', serif;
 }
 
@@ -75,7 +75,7 @@ body{
 
 
 .rounded-circle{
-  width: 80%;
+  width: 40%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -168,19 +168,19 @@ body{
  margin-top:0.5rem;
 }
 
-.buttonA {
-  color: #00ace6;
-  background-color: white;
-  padding: 10px 15px;
-  text-align: center;
-  text-decoration: none;
-  font-size: .8rem;
-  margin-top: 1rem;
+.buttona {
+    color: black;
+    background-color: coral;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: .8rem;
+    margin-top: 1rem;
 }
 
-.buttonA:hover {
-  background-color: white;
-  color: #00ace6;
+.buttona:hover {
+  background-color: tomato;
+  color: white;
   }
 
 .announce{
@@ -262,11 +262,19 @@ body{
   margin: auto;
   transform: rotate(-45deg);
 }
-
+.contact{
+    color: dimgrey;
+}
 .darkmode-layer, .darkmode-toggle {
     z-index: 500;
 }
 .darkmode--activated .icon-container , .page-footer{
+    mix-blend-mode: difference;
+}
+.darkmode--activated .bgs {
+    mix-blend-mode: difference;
+}
+.darkmode--activated .rounded-circle {
     mix-blend-mode: difference;
 }
 .darkmode--activated nav{
