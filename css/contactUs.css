@@ -1,0 +1,288 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  overflow-x:hidden;
+}
+
+body{
+  font-family: Lato;
+}
+
+@media screen and (max-width: 600px) {
+  div.bg {
+    display: none;
+  }
+  div.card {
+    margin-top: 15rem;
+  }
+  div.announceImg{
+    margin-left: -60px;
+  }
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: black;
+}
+
+.nav-item{
+  padding-left: 20px;
+  font-size: 0.9rem;
+}
+
+.navbar {
+    min-height: 80px;
+    padding-right:1rem;
+    padding-left: 1rem;
+    margin-top: 0;
+    padding-top: 30px;
+    background-color: white;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #33adff;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 250%;
+}
+
+#homeContent {
+    text-align: center;
+    padding-top: 8rem;
+    font-family: 'Antic Slab', serif;
+}
+
+#homeContent p{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#homeContent h1{
+  font-weight: bold;
+  color: #ff66c4;
+  font-size: 2rem;
+}
+
+#homeContent h4{
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+#buttons{
+  padding-top: 3rem;
+  padding-bottom: 20px;
+}
+
+
+.rounded-circle{
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+}
+
+.portfolio h2{
+  text-align: center;
+  font-weight: bold;
+}
+
+.button1 {
+  color: #00ace6;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.button2 {
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+  background-color:#00ace6;
+}
+
+.button1:hover {
+  background-color: #00ace6;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.button2:hover {
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.bgs {
+  width:100%;
+  height:20rem;
+  margin-top: 3rem;
+}
+
+.top-sec {
+  margin-top: -250px;
+  margin-bottom: 15px;
+}
+
+.card-title{
+  color: #00ace6;
+  font-size: 2rem;
+  padding: 40px;
+}
+
+.card-text{
+  font-size: 1rem;
+  padding-bottom: 40px;
+}
+
+.button3 {
+  background-color: #00cca3;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.Achievements h1{
+  font-size: 1.8rem;
+  font-weight:bold;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.Achievements p{
+  font-size: 1rem;
+  text-align: center;
+}
+
+.achievements{
+ padding-top:2rem;
+ margin-top:0.5rem;
+}
+
+.buttona {
+    color: black;
+    background-color: coral;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: .8rem;
+    margin-top: 1rem;
+}
+
+.buttona:hover {
+  background-color: tomato;
+  color: white;
+  }
+
+.announce{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.announce h1{
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.announce p{
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.animg {
+    max-height: 20rem;
+    max-width: 100rem;
+}
+.page-footer {
+    margin-bottom:0;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom:20px;
+    max-height: 15rem;
+    background-color: #ff4d94;
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+
+}
+.img-thumbnail{
+    width:20rem;
+}
+.my-achieve {
+    margin-top: 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-gap: 2.5rem;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.add {
+    padding-bottom: 100px;
+}
+
+.achieves {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    padding-bottom:4rem;
+    }
+
+.achieves h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 2rem -2px 2rem 0;
+}
+
+.icon-container {
+    width: 6rem;
+    height: 6rem;
+    border: 3px solid pink;
+    background-color: #B39BCA;
+    margin-bottom: 2rem;
+    display: flex;
+    transform: rotate(45deg);
+}
+
+.icon-container i {
+  color: #374785;
+  border: #ffe838;
+  font-size: 2rem;
+  margin: auto;
+  transform: rotate(-45deg);
+}
+.contact{
+    color: dimgrey;
+}
+.darkmode-layer, .darkmode-toggle {
+    z-index: 500;
+}
+.darkmode--activated .icon-container , .page-footer{
+    mix-blend-mode: difference;
+}
+.darkmode--activated .bgs {
+    mix-blend-mode: difference;
+}
+.darkmode--activated .rounded-circle {
+    mix-blend-mode: difference;
+}
+.darkmode--activated nav{
+     background-color:black;
+}
+.darkmode--activated a {
+    color: white;
+}
+.darkmode--activated nav-link{
+    color: white;
+}
