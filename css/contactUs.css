@@ -18,6 +18,11 @@ body{
   div.announceImg{
     margin-left: -60px;
   }
+  section.forms {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
+  }
 }
 
 .navbar-custom .navbar-nav .nav-link {

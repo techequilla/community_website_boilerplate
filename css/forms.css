@@ -22,16 +22,17 @@ label {
 .forms{
   border-radius: 2rem;
   background-color: #b3b3b3;
-  padding-left: 80px;
-  padding-right: 80px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
   width: 50%;
   border: 5px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 3rem;
 }
+
 
 .buttonA {
   color: black;
@@ -46,4 +47,4 @@ label {
 .buttonA:hover {
   background-color:#008060;
   color: white;
-  }
+}
