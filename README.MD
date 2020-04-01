@@ -66,7 +66,7 @@ Feel free to ask your queries!! 🙌
 Refer to [LICENSE](./LICENSE).
 
 ## Code of Conduct
-Refer to [CODE_OF_CONDUCT](./CODE_OF_CONDUCT).
+Refer to [CODE_OF_CONDUCT](https://github.com/chhavi18387/community_website_boilerplate/blob/changes-in-readme(wip)/CODE_OF_CONDUCT.md).
 
 We are open to suggestions.If you've found a bug or want to suggest new features, you can create a [Github issue](https://github.com/techequilla/community_website_boilerplate/issues).
 
