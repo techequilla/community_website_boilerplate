@@ -36,10 +36,10 @@ The snapshots and guide to each section can be found in [`Guide.md`](guide.md)
  And willingness to learn! 📚
 
 ### Installations required 💻
-- Python :install the latest version of python from [python.org website](https://www.python.org/downloads/).
-- Django :find proper installation guidelines at [djangoproject.com](https://docs.djangoproject.com/en/3.0/topics/install/) 
-- Node.js : click  [here](https://www.guru99.com/download-install-node-js.html) to find proper installation guidelines.
-- Text editor : install a text editor like [Sublime text](https://www.sublimetext.com/3) to write your html,css code and to perform other edits.
+- Python : Install the latest version of python from [python.org website](https://www.python.org/downloads/).
+- Django : Find proper installation guidelines at [djangoproject.com](https://docs.djangoproject.com/en/3.0/topics/install/) 
+- Node.js : Click  [here](https://www.guru99.com/download-install-node-js.html) to find proper installation guidelines.
+- Text editor : Install a text editor like [Sublime text](https://www.sublimetext.com/3) to write your html,css code and to perform other edits.
 - Git : Install git from [git-scm website](https://git-scm.com/downloads) to make your contribution process easier.Guildlines regarding contribution are mentioned below. 
 
 ## 🏆 Wondering how to get started?🤔
