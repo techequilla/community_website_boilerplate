@@ -8,7 +8,7 @@
 
 [![Gitter](https://badges.gitter.im/girlscript_chennai_website/community.svg)](https://gitter.im/girlscript_app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is a website built for Techequilla that can be used as a boilerplate by any other community.
+This is a website built for Techequilla ,a boilerplate for any technical community to pick up and use for their own without any hassle. 
 
 
 ## 🙇 Description
@@ -35,7 +35,16 @@ The snapshots and guide to each section can be found in [`Guide.md`](guide.md)
 
  And willingness to learn! 📚
 
+### Installations required 💻
+- Python :install the latest version of python from [python.org website](https://www.python.org/downloads/).
+- Django :find proper installation guidelines at [djangoproject.com](https://docs.djangoproject.com/en/3.0/topics/install/) 
+- Node.js : click  [here](https://www.guru99.com/download-install-node-js.html) to find proper installation guidelines.
+- Text editor : install a text editor like [Sublime text](https://www.sublimetext.com/3) to write your html,css code and to perform other edits.
+- Git : Install git from [git-scm website](https://git-scm.com/downloads) to make your contribution process easier.Guildlines regarding contribution are mentioned below. 
+
 ## 🏆 Wondering how to get started?🤔
+
+
 ![RGSOC'20](https://img.shields.io/badge/RGSOC-20-pink?style=for-the-badge)
 
 Here you go! We have made everything easy for you.👐
