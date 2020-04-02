@@ -35,7 +35,7 @@ The snapshots and guide to each section can be found in [`Guide.md`](guide.md)
 
  And willingness to learn! 📚
 
-## Installations required 💻
+## 💻 Installations required 
 - Python : Install the latest version of python from [python.org website](https://www.python.org/downloads/).
 - Django : Find proper installation guidelines at [djangoproject.com](https://docs.djangoproject.com/en/3.0/topics/install/) 
 - Node.js : Click  [here](https://www.guru99.com/download-install-node-js.html) to find proper installation guidelines.
@@ -71,10 +71,10 @@ Checkout [`Contribute.md`](contribute.md) for a step by step guide.
 
 Feel free to ask your queries!! 🙌
 
-## License 📝
+## 📝 License 
 Refer to [LICENSE](./LICENSE).
 
-## Code of Conduct
+## 📝 Code of Conduct
 Refer to [CODE_OF_CONDUCT](https://github.com/chhavi18387/community_website_boilerplate/blob/changes-in-readme(wip)/CODE_OF_CONDUCT.md).
 
 We are open to suggestions.If you've found a bug or want to suggest new features, you can create a [Github issue](https://github.com/techequilla/community_website_boilerplate/issues).
