@@ -35,7 +35,7 @@ The snapshots and guide to each section can be found in [`Guide.md`](guide.md)
 
  And willingness to learn! 📚
 
-### Installations required 💻
+## Installations required 💻
 - Python : Install the latest version of python from [python.org website](https://www.python.org/downloads/).
 - Django : Find proper installation guidelines at [djangoproject.com](https://docs.djangoproject.com/en/3.0/topics/install/) 
 - Node.js : Click  [here](https://www.guru99.com/download-install-node-js.html) to find proper installation guidelines.
