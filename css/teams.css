@@ -6,6 +6,8 @@ body, html {
 
 body{
   font-family: Lato;
+  box-sizing: border-box; 
+  background-color: white;
 }
 .navbar-custom .navbar-nav .nav-link {
     color: black;
@@ -57,10 +59,348 @@ body{
     font-family: 'Antic Slab', serif;
     font-weight: bold;
 }
+/* TEAM */
+.containerr {
+    margin-top: -220px;
+}
+.card_1 {
+    box-sizing: border-box;
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 170px;
+    float: left;
+    margin-right: 100px;
+}
+.card_2 {
+    box-sizing: border-box;
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 300px;
+    margin-top: 170px;
+    float: left;
+    margin-right: 100px;
+
+}
+.card_3 {
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 300px;
+    margin-top: 170px;
+    float: left;
+
+}
+.card_4 {
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 300px;
+    margin-top: 500px;
+    margin-right: 100px;
+    margin-left: 400px;
+    float: left;
+
+}
+.card_5 {
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 300px;
+    margin-top: 500px;
+    float: left;
+
+}
+.card_6 {
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 400px;
+    margin-top: 1010px;
+    float: left;
+    margin-left: -800px;
+}
+.card_7 {
+    perspective: 150rem;
+    -moz-perspective: 150rem;
+    position: relative;
+    width: 400px;
+    margin-top: 1010px;
+    float: left;
+    margin-left: -250px;
+}
+.card__side {
+    height: 400px;
+    width: 300px;
+    transition: all .9s ease;
+    position: absolute;
+    width: 100%;
+    backface-visibility: hidden;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 1.5rem 4rem grey;
+}
+
+.team-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 10;
+    margin-top: 40px;
+    margin-left: 45px;
+    align-items: center;
+}
+.team-imgp1 {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 10;
+    margin-top: 40px;
+    margin-left: 45px;
+}
+.team-imgp2 {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    position: absolute;
+    z-index: 10;
+    margin-top: 40px;
+    margin-left: 200px;
+}
+.sma {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 280px;
+    margin-left: 55px;
+}
+.sma .desma {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.anu {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 280px;
+    margin-left: 25%;
+    
+}
+.anu .deanu {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: -10px;
+}
+.ous {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 280px;
+    margin-left: 25%;
+    
+}
+.ous .deous {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: -10px;
+}
+.sas {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 280px;
+    margin-left: 23%;
+    
+}
+.sas .desas {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: -10px;
+}
+.suk {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 280px;
+    margin-left: 20%;
+    
+}
+.suk .desuk {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.cgr1 {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 230px;
+    margin-left: 27px;
+    
+}
+.cgr1 .degr1 {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    text-align: center;
+}
+.tnm {
+    font-weight: 600;
+}
+.cgr2 {
+    position: absolute;
+    font-size: 25px;
+    margin-top: 230px;
+    margin-left: 150px;
+
+}
+.cgr2 .degr2 {
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: -40px;
+}
+
+.card__side--front {
+    background-image: linear-gradient(to right bottom, rgba(81, 179, 212, 0.644), rgb(77, 77, 223)); 
+
+}
+
+.card__side--back {
+    transform: rotateY(180deg);
+}
+
+.card__side--back-1 {
+    background-image: linear-gradient(to right bottom, rgba(76, 226, 76, 0.747), rgba(226, 226, 65, 0.829)); 
+}
+
+.card_1:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_1:hover .card__side--back {
+    transform: rotateY(0);
+}
+.card_2:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_2:hover .card__side--back {
+    transform: rotateY(0);
+}
+.card_3:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_3:hover .card__side--back {
+    transform: rotateY(0);
+}
+.card_4:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_4:hover .card__side--back {
+    transform: rotateY(0);
+}
+.card_5:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_5:hover .card__side--back {
+    transform: rotateY(0);
+}
+.card_6:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_6:hover .card__side--back {
+    transform: rotateY(0);
+}
+.card_7:hover .card__side--front {
+    transform: rotateY(-180deg);
+} 
+
+.card_7:hover .card__side--back {
+    transform: rotateY(0);
+}
+.about {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+    letter-spacing: 10px;
+}
+
+.desc {
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: px;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+}
+
+
+.social-menu ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+    margin-top: 110px;
+}
+.social-menu ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+.social-menu ul li .fa {
+    color: #000000;
+    font-size: 25px;
+    line-height: 50px;
+    transition: .5s;
+}
+.social-menu ul li .fa:hover {
+    color: #ffffff;
+}
+.social-menu ul li a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
+}
+.social-menu ul li a:hover {
+    transform: rotate(0deg) skew(0deg) translate(0, -10px);
+}
+.social-menu ul li:nth-child(1) a:hover {
+    background-color: #3b5999;
+}
+.social-menu ul li:nth-child(2) a:hover {
+    background-color: #e4405f;
+}
+.social-menu ul li:nth-child(3) a:hover {
+    background-color: #000000;
+}
+.social-menu ul li:nth-child(4) a:hover {
+    background-color: #0077B5;
+}
+
+/* FOOTER */
 
 .page-footer {
     margin-bottom: 0;
     width: 100%;
+    margin-top: 1800px;
     padding-top: 20px;
     padding-bottom: 20px;
     max-height: 15rem;
