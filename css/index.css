@@ -18,6 +18,9 @@ body{
   div.announceImg{
     margin-left: -60px;
   }
+  section.carousel{
+    margin-top: 18%;
+  }
 }
 
 .navbar-custom .navbar-nav .nav-link {
@@ -229,6 +232,11 @@ body{
   font-size: 2rem;
   margin: auto;
   transform: rotate(-45deg);
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
 }
 
 .darkmode-layer, .darkmode-toggle {
