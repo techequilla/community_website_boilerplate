@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: Lato;
+  font-family: "Poppins", sans-serif;
 }
 .navbar-custom .navbar-nav .nav-link {
   color: black;
@@ -42,7 +42,8 @@ body {
 
 .Team h1 {
   font-size: 2rem;
-  font-family: "Antic Slab", serif;
+  font-family: "Poppins", sans-serif;
+
   text-align: center;
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -55,7 +56,8 @@ body {
 
 .pictures h2 {
   font-size: 1rem;
-  font-family: "Antic Slab", serif;
+  font-family: "Poppins", sans-serif;
+
   font-weight: bold;
 }
 

@@ -1,11 +1,12 @@
-body, html {
+body,
+html {
   height: 100%;
   margin: 0;
-  overflow-x:hidden;
+  overflow-x: hidden;
 }
 
-body{
-  font-family: Lato;
+body {
+  font-family: "Poppins", sans-serif;
 }
 
 @media screen and (max-width: 600px) {
@@ -15,50 +16,50 @@ body{
   div.card {
     margin-top: 15rem;
   }
-  div.announceImg{
+  div.announceImg {
     margin-left: -60px;
   }
 }
 
 .navbar-custom .navbar-nav .nav-link {
-    color: black;
+  color: black;
 }
 
-.nav-item{
+.nav-item {
   padding-left: 20px;
   font-size: 0.9rem;
 }
 
 .navbar {
-    min-height: 80px;
-    padding-right:1rem;
-    padding-left: 1rem;
-    margin-top: 0;
-    padding-top: 30px;
-    background-color: white;
+  min-height: 80px;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-top: 0;
+  padding-top: 30px;
+  background-color: white;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: #33adff;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 250%;
+  color: #33adff;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 250%;
 }
 
 #homeContent {
-    text-align: center;
-    padding-top: 10rem;
-    font-family: 'Antic Slab', serif;
+  text-align: center;
+  padding-top: 10rem;
+  font-family: "Antic Slab", serif;
 }
 
-#homeContent p{
+#homeContent p {
   font-weight: bold;
   color: #ff66c4;
   font-size: 2rem;
 }
 
-#buttons{
+#buttons {
   padding-top: 3rem;
   padding-bottom: 20px;
 }
@@ -77,7 +78,7 @@ body{
   text-align: center;
   text-decoration: none;
   font-size: 1rem;
-  background-color:#00ace6;
+  background-color: #00ace6;
 }
 
 .button1:hover {
@@ -94,8 +95,8 @@ body{
 }
 
 .bgs {
-  width:100%;
-  height:20rem;
+  width: 100%;
+  height: 20rem;
 }
 
 .top-sec {
@@ -103,13 +104,13 @@ body{
   margin-bottom: 15px;
 }
 
-.card-title{
+.card-title {
   color: #00ace6;
   font-size: 2rem;
   padding: 40px;
 }
 
-.card-text{
+.card-text {
   font-size: 1rem;
   padding-bottom: 40px;
 }
@@ -126,21 +127,21 @@ body{
   font-weight: bold;
 }
 
-.Achievements h1{
+.Achievements h1 {
   font-size: 1.8rem;
-  font-weight:bold;
+  font-weight: bold;
   text-align: center;
   padding-top: 100px;
 }
 
-.Achievements p{
+.Achievements p {
   font-size: 1rem;
   text-align: center;
 }
 
-.achievements{
- padding-top:2rem;
- margin-top:0.5rem;
+.achievements {
+  padding-top: 2rem;
+  margin-top: 0.5rem;
 }
 
 .buttonA {
@@ -149,16 +150,16 @@ body{
   padding: 10px 15px;
   text-align: center;
   text-decoration: none;
-  font-size: .8rem;
+  font-size: 0.8rem;
   margin-top: 1rem;
 }
 
 .buttonA:hover {
   background-color: white;
   color: #00ace6;
-  }
+}
 
-.announce{
+.announce {
   font-size: 2rem;
   font-weight: 500;
   text-align: center;
@@ -168,44 +169,43 @@ body{
 }
 
 .animg {
-    max-height: 20rem;
-    max-width: 100rem;
+  max-height: 20rem;
+  max-width: 100rem;
 }
 .page-footer {
-    margin-bottom:0;
-    width: 100%;
-    padding-top: 20px;
-    padding-bottom:20px;
-    max-height: 15rem;
-    background-color: #ff4d94;
-    text-align: center;
-    color: white;
-
+  margin-bottom: 0;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-height: 15rem;
+  background-color: #ff4d94;
+  text-align: center;
+  color: white;
 }
-.img-thumbnail{
-    width:20rem;
+.img-thumbnail {
+  width: 20rem;
 }
 .my-achieve {
-    margin-top: 5rem;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
-    grid-gap: 2.5rem;
-    text-align: center;
-    font-size: 1rem;
+  margin-top: 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  grid-gap: 2.5rem;
+  text-align: center;
+  font-size: 1rem;
 }
 
 .add {
-    padding-bottom: 100px;
+  padding-bottom: 100px;
 }
 
 .achieves {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 2rem;
-    padding-bottom:4rem;
-    }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  padding-bottom: 4rem;
+}
 
 .achieves h1 {
   font-size: 1.5rem;
@@ -214,13 +214,13 @@ body{
 }
 
 .icon-container {
-    width: 6rem;
-    height: 6rem;
-    border: 3px solid pink;
-    background-color: #B39BCA;
-    margin-bottom: 2rem;
-    display: flex;
-    transform: rotate(45deg);
+  width: 6rem;
+  height: 6rem;
+  border: 3px solid pink;
+  background-color: #b39bca;
+  margin-bottom: 2rem;
+  display: flex;
+  transform: rotate(45deg);
 }
 
 .icon-container i {
@@ -231,18 +231,20 @@ body{
   transform: rotate(-45deg);
 }
 
-.darkmode-layer, .darkmode-toggle {
-    z-index: 500;
+.darkmode-layer,
+.darkmode-toggle {
+  z-index: 500;
 }
-.darkmode--activated .icon-container , .page-footer{
-    mix-blend-mode: difference;
+.darkmode--activated .icon-container,
+.page-footer {
+  mix-blend-mode: difference;
 }
-.darkmode--activated nav{
-     background-color:black;
+.darkmode--activated nav {
+  background-color: black;
 }
 .darkmode--activated a {
-    color: white;
+  color: white;
 }
-.darkmode--activated nav-link{
-    color: white;
-    }
+.darkmode--activated nav-link {
+  color: white;
+}
