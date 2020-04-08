@@ -1,4 +1,7 @@
+![App Icon](https://github.com/techequilla/community_app_boilerplate/blob/master/community_app_boilerplate/assets/icon/techequilla_app_icon_v2.jpeg)
+
 ## Techequilla-Community Website Boilerplate
+
 ![Issues](https://img.shields.io/github/issues/techequilla/community_website_boilerplate)
 ![Pull Requests](https://img.shields.io/github/issues-pr/techequilla/community_website_boilerplate?)
 ![Forks](https://img.shields.io/github/forks/techequilla/community_website_boilerplate)
@@ -18,6 +21,8 @@ This project is also meant to be a starting for all techies interested to get th
 
 Currently this is a part of Rails Girls Summer of Code'2020
 
+![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
+
 Participants are welcome to contribute beyond just the website, i.e. to have small web apps or scripts for the projects section which once accepted shall be potrayed officially and also added on the [github org](https://github.com/techequilla)
 
 #### 👇 Checkout the current version: 
@@ -26,12 +31,14 @@ Participants are welcome to contribute beyond just the website, i.e. to have sma
 
 ####  A follow up project:
 
-- [Link to the corresponding app template](https://github.com/techequilla/community_app_boilerplate)
+[Link to the corresponding app template](https://github.com/techequilla/community_app_boilerplate)
 
 
 ## Contribution Guidelines
 
 #### 👇 Prerequisites:
+
+![Pass](https://media.giphy.com/media/Z9cRCMdAMzXi25dwhE/giphy.gif)
 
 - Ability to use Git and Github is mandatory
 - Working knowledge of HTML,CSS and Javascript
@@ -40,6 +47,8 @@ Participants are welcome to contribute beyond just the website, i.e. to have sma
 - Django/NodeJS is a bonus skill to have
 
 #### Suggested Resources for picking up on the skills:
+
+![Learn](https://media.giphy.com/media/qxsgm2X2Fb5WE/giphy.gif)
 
 - [Dart Programming](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 - [Flutter Crash Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
@@ -53,7 +62,7 @@ Participants are welcome to contribute beyond just the website, i.e. to have sma
 
 #### Steps:
 
-![RGSOC'20](https://img.shields.io/badge/RGSOC-20-red?style=for-the-badge)
+![Steps](https://media.giphy.com/media/o5BzNDDFQnepi/giphy.gif)
 
 **1.** Fork [this](https://github.com/techequilla/community_website_boilerplate) repository.
 
@@ -97,13 +106,15 @@ git push -u origin <your_branch_name>
 
 #### Tasks:
 
-- Work on different cards of the app and facilitate more features
--  Fix Bugs
-- Improve the documentation
-- Work on the corresponding website for TechEquilla:
-           - Redesign the UI/UX of the website
-           - Put in more animations
-           - Make admin panel for the website
+![Tasks](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+- Improve the UI/UX of the website
+- Work on various pages of the webiste
+- Put in more animations
+- Ensure mobile responsiveness of the website
+- Fix any bugs
+- Build GitHub Actions
+- Make admin panel for the website
 - Work on additional projects for the community like mass mailer,certgen,etc
 
 #### Code of Conduct:
@@ -111,10 +122,13 @@ git push -u origin <your_branch_name>
 [Make sure you don't violate this](https://github.com/techequilla/community_website_boilerplate/blob/master/CODE_OF_CONDUCT.md)
 
 ## 👨 Project Admin
+![Admin](https://media.giphy.com/media/26wkRxKJ9yUZzlorK/giphy.gif)
 
-- [Smaranjit Ghose](https://github.com/smaranjitghose)
+ [Smaranjit Ghose](https://github.com/smaranjitghose)
 
 ## 👬  Mentors and Project Maintainers
+
+![Project Maintainers](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
 
 - [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 - [Saswat Nayak](https://github.com/swat1998)
