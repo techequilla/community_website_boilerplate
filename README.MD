@@ -1,4 +1,4 @@
-![App Icon](https://github.com/techequilla/community_app_boilerplate/blob/master/community_app_boilerplate/assets/icon/techequilla_app_icon_v2.jpeg)
+![App Icon](https://github.com/techequilla/community_website_boilerplate/blob/master/assets/Icons/techequilla_app_icon.jpeg)
 
 ## Techequilla-Community Website Boilerplate
 
