@@ -32,7 +32,9 @@ body{
     font-weight: bold;
     font-size: 250%;
 }
-
+.navbar-custom .navbar-brand:hover {
+        color: #33adff;
+    }
 
 .bgs {
     width:100%;
