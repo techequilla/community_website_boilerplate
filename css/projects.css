@@ -29,6 +29,9 @@ body, html {
     font-weight: bold;
     font-size: 250%;
 }
+.navbar-custom .navbar-brand:hover {
+        color: #33adff;
+    }
 
 .headtitle {
     font-size: 50px;
