@@ -176,3 +176,6 @@ body{
 .darkmode--activated nav-link{
     color: white;
 }
+.darkmode--activated .gs {
+    mix-blend-mode: difference;
+}
