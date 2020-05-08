@@ -1,5 +1,3 @@
-![App Icon](https://github.com/techequilla/community_website_boilerplate/blob/master/assets/Icons/techequilla_app_icon.jpeg)
-
 ## Techequilla-Community Website Boilerplate
 
 ![Issues](https://img.shields.io/github/issues/techequilla/community_website_boilerplate)
@@ -104,18 +102,6 @@ git push -u origin <your_branch_name>
 
 **Congratulations!** Sit and relax, you've made your contribution to [Community Website Boilerplate](https://github.com/techequilla/community_website_boilerplate) project.
 
-#### Tasks:
-
-![Tasks](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-- Improve the UI/UX of the website
-- Work on various pages of the webiste
-- Put in more animations
-- Ensure mobile responsiveness of the website
-- Fix any bugs
-- Build GitHub Actions
-- Make admin panel for the website
-- Work on additional projects for the community like mass mailer,certgen,etc
 
 #### Code of Conduct:
 
@@ -130,10 +116,10 @@ git push -u origin <your_branch_name>
 
 ![Project Maintainers](https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif)
 
-- [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
+
+- [Anush Bhatia](https://github.com/anushbhatia)
 - [Saswat Nayak](https://github.com/swat1998)
 - [Ousnik Polley](https://github.com/ousnik)
-- [Anush Bhatia](https://github.com/anushbhatia)
 
 # License 📜
 
